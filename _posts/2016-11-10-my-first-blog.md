@@ -2,7 +2,7 @@
 layout: post
 title: "Molin first github blog"
 description: "I am so happy, my dear friend, this is my first github blog."
-date: 2017-02-14 23:39:18
+date: 2016-11-10 23:39:18
 comments: true
 keywords: "welcome, wonderful, jekyll, friend"
 category: welcome

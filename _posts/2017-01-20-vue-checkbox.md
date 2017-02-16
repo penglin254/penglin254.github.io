@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "关于vue的checkbox的ie兼容性问题"
-description: "关于vue的checkbox的ie兼容性问题，以及拒绝方法"
+description: "关于vue的checkbox的ie兼容性问题，以及解决方法"
 date: 2017-01-20 20:39:18
 comments: true
-keywords: "vue,关于vue的checkbox的ie兼容性问题，以及拒绝方法"
+keywords: "vue,关于vue的checkbox的ie兼容性问题，以及解决方法"
 category: dev
 tags:
 - vue checkbox
