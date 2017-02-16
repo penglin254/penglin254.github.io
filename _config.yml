@@ -15,8 +15,8 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: Molin
-description: "This is Molin blog"
+title: Molin blog(欢迎来到漠林的博客)
+description: "This is Molin blog，漠林的博客"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, Molin blog"
 url: http://penglin254.github.io
 baseurl: ""
