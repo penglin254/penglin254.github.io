@@ -1,0 +1,54 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: .
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Molin
+description: "This is Molin blog"
+keywords: "Jekyll, theme, free, download, SEO, blog, web, Molin blog"
+url: http://penglin254.github.io
+baseurl: ""
+# baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/penglin254
+disqus_shortname: "molin"
+disqus_site_shortname: "molin"
+
+# Author settings
+author:
+  name      : Colin Peng
+  job       : Frontend Engineer
+  bio       : "I work in a software company in Shenzhen, single, handsome, I have a dream, the ideal of the country's great youth."
+  thumb     : ./images/author.jpg
+  email     : 139193411@qq.com
+  #url       : http://nandomoreira.me
+  github    : http://github.com/penglin254
+  twitter   : http://twitter.com/penglin254
+  facebook  : http://facebook.com/penglin254
+  linkedin  : http://linkedin.com/in/penglin254
+
+# navbar pages
+navbar:
+  - slug: about
+    title: 关于
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: 博客
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
