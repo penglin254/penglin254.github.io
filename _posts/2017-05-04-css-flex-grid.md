@@ -16,7 +16,7 @@ tags:
 
 2.浏览器兼容性
 
-<img src="../img/css-grid.png">
+<img src="img/css-grid.png">
 
 仅在IE10+上支持，而且也仅支持部分属性。
 
