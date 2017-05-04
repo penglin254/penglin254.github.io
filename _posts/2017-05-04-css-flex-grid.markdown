@@ -16,7 +16,7 @@ tags:
 
 2.浏览器兼容性
 
-<img src="../images/css-grid.png">
+<img src="https://raw.githubusercontent.com/penglin254/penglin254.github.io/master/images/css_grid.png">
 
 仅在IE10+上支持，而且也仅支持部分属性。
 
