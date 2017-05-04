@@ -51,4 +51,6 @@ tags:
 
 #enable-experimental-web-platform-features），一个更为简单的方法，可以直接在浏览器地址栏中输入网址：chrome://flags#enable-experimental-web-platform-features立马定位需要的选项，然后点击“启用”(enable)按钮，
 
-(2).同上
+(2).Opera
+
+方法同上，opera://flags/#enable-experimental-web-platform-features
