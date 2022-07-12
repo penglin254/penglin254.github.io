@@ -29,12 +29,12 @@ disqus_site_shortname: "molin"
 
 # Author settings
 author:
-  name      : Colin Peng
+  name      : Xiao Peng
   job       : Frontend Engineer
-  bio       : "I work in a software company in Shenzhen, single, handsome, I have a dream, the ideal of the country's great youth."
-  thumb     : ./images/author.jpg
+  bio       : "I work in a software company in Shenzhen, handsome, I have a dream, the ideal of the country's great youth."
+  thumb     : ./images/author.png
   email     : 139193411@qq.com
-  #url       : http://nandomoreira.me
+  url       : https://penglin254.github.io/
   github    : http://github.com/penglin254
   twitter   : http://twitter.com/penglin254
   facebook  : http://facebook.com/penglin254
